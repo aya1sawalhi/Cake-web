@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import first_component from '../src/first_component' 
 
 function App() {
   
-   return (
-     <h1>Hello</h1>
+     return (
+        first_component()
     )
 }
 
